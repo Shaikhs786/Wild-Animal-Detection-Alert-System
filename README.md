@@ -71,7 +71,16 @@ This ensures rapid monitoring and timely response.
 - Solar-powered autonomous system
 - Cloud storage integration
 - GSM-based backup alert system
+## 📸 Project Demonstration
 
+### 📷 Telegram Bot Alert
+![Telegram Alert](telegram-alert.jpg.jpeg)
+
+### 🔧 Hardware Setup – View 1
+![Hardware 1](hardware-setup-1.jpg.jpeg)
+
+### 🔧 Hardware Setup – View 2
+![Hardware 2](hardware-setup-2.jpg.jpeg)
 
 
 ## 👨‍💻 Developed By
